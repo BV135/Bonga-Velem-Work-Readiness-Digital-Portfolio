@@ -1,4 +1,4 @@
-# 👨‍💻 Digital Portfolio of \Bonga Velem
+# 👨‍💻 Digital Portfolio of Bonga Velem
 
 * **Student Number:** 220052379
 * **Institution:** Cape Peninsula University of Technology
